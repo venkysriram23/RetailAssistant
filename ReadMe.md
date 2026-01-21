@@ -16,4 +16,4 @@ GOOGLE_API_KEY='key-value'
 python3 sql.py
 
 ## Open streamlit app
-streamlit run code/app.py
+streamlit run code/agent_app.py
